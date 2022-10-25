@@ -12,3 +12,4 @@ CREATE TABLE book_user
     del boolean,
     CONSTRAINT book_user_pkey PRIMARY KEY (user_id)
 );
+
